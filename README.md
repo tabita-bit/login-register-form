@@ -30,7 +30,7 @@ This project implements a login and registration UI in React. The `App` componen
 
 ## Project Structure
 ```
-lab3/
+login-register-form/
 ├── src/
 │   ├── components/
 │   │   ├── LoginForm.jsx     # Login form component
@@ -56,8 +56,8 @@ lab3/
 
 ### Installation
 ```bash
-git clone https://github.com/tabita-bit/Lab-3.git
-cd Lab-3
+git clone https://github.com/tabita-bit/login-register-form.git
+cd login-register-form
 npm install
 ```
 
