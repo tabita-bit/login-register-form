@@ -39,9 +39,13 @@ lab3/
 │   ├── App.css                # Form styling
 │   ├── main.jsx                # Entry point
 │   └── index.css               # Base/global styles
-├── index.html
-├── package.json
-└── vite.config.js
+├── public/                     # Static assets
+├── .gitignore                  # Files/folders excluded from git
+├── eslint.config.js            # ESLint rules
+├── index.html                  # HTML entry point
+├── package.json                # Project metadata & dependencies
+├── package-lock.json           # Locked dependency versions
+└── vite.config.js              # Vite build configuration
 ```
 
 ## Getting Started
