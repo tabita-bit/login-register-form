@@ -1,6 +1,6 @@
 # Login & Register Form
 
-A React application featuring login and register forms built with custom, reusable input components.
+A React application featuring login and register forms, built with Vite for fast development.
 
 ## Table of Contents
 - [Overview](#overview)
